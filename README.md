@@ -16,7 +16,7 @@
 
 * 喜欢追新的可以去下载small-package，该仓库每天自动同步更新
 
-* [small-package仓库地址](https://github.com/kenzok8/small-package) 
+* [small-package仓库地址](https://github.com/jtzx082/small-package) 
 
 * 软件不定期同步大神库更新，适合一键下载用于openwrt编译
 
@@ -24,7 +24,7 @@
 ##### 插件每日更新下载:
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/kenzok8/compile-package?style=for-the-badge&label=插件更新下载)](https://github.com/kenzok8/compile-package/releases/latest)
 
-+ [passwall依赖](https://github.com/kenzok8/small)
++ [passwall依赖](https://github.com/jtzx082/small)
 
 + [xiaorouji仓库](https://github.com/xiaorouji/openwrt-passwall)
 
@@ -33,8 +33,8 @@
 #### 使用
 一键命令
 ```yaml
-sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
-sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
+sed -i '$a src-git jtzx082 https://github.com/jtzx082/openwrt-packages' feeds.conf.default
+sed -i '$a src-git small https://github.com/jtzx082/small' feeds.conf.default
 git pull
 ./scripts/feeds update -a
 ./scripts/feeds install -a
