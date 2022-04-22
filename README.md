@@ -1,11 +1,11 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzok8&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtzx082&show_icons=true&theme=radical)
 <div align="center">
 <h1 align="center"openwrt-packages</h1>
-<img src="https://img.shields.io/github/issues/kenzok8/openwrt-packages?color=green">
-<img src="https://img.shields.io/github/stars/kenzok8/openwrt-packages?color=yellow">
-<img src="https://img.shields.io/github/forks/kenzok8/openwrt-packages?color=orange">
-<img src="https://img.shields.io/github/license/kenzok8/openwrt-packages?color=ff69b4">
-<img src="https://img.shields.io/github/languages/code-size/kenzok8/openwrt-packages?color=blueviolet">
+<img src="https://img.shields.io/github/issues/jtzx082/openwrt-packages?color=green">
+<img src="https://img.shields.io/github/stars/jtzx082/openwrt-packages?color=yellow">
+<img src="https://img.shields.io/github/forks/jtzx082/openwrt-packages?color=orange">
+<img src="https://img.shields.io/github/license/jtzx082/openwrt-packages?color=ff69b4">
+<img src="https://img.shields.io/github/languages/code-size/jtzx082/openwrt-packages?color=blueviolet">
 </div>
 
 <img src="https://v2.jinrishici.com/one.svg?font-size=24&spacing=2&color=Black">
@@ -22,7 +22,7 @@
 
 
 ##### 插件每日更新下载:
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kenzok8/compile-package?style=for-the-badge&label=插件更新下载)](https://github.com/kenzok8/compile-package/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/jtzx082/compile-package?style=for-the-badge&label=插件更新下载)](https://github.com/jtzx082/compile-package/releases/latest)
 
 + [passwall依赖](https://github.com/jtzx082/small)
 
